@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Nodejs,Vuejs**
+- 💬 Ask me about **Kubernetes,Ansible,OpenStack services**
 
 - 📫 How to reach me **sahar.letaief@esprit.tn**
 
