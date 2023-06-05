@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> </p>
 
 - 🔭 I’m currently working on [SpringBoot and Angular academic project](https://github.com/CloudyPI2023/PharmaLife)
-- 🌱 I’m currently learning **Microsoft Azure services,Docker**
+- 🌱 I’m currently getting **AWS Certifications**
 
-- 💬 Ask me about **Kubernetes,Ansible,OpenStack services**
+- 💬 Ask me about **Kubernetes,Ansible,Docker,OpenStack services**
 
 - 📫 How to reach me **sahar.letaief@esprit.tn**
 
