@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> </p>
 
-- 🔭 I am currently working on [SpringBoot and Angular academic project](https://github.com/CloudyPI2023/PharmaLife)
+- 🔭 My latest project [SpringBoot and Angular academic project](https://github.com/CloudyPI2023/PharmaLife)
 - 🌱 I am currently getting **AWS Certifications**
 
 - 💬 Ask me about **Kubernetes,Ansible,Docker,OpenStack services**
