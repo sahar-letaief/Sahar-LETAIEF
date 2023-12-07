@@ -3,7 +3,7 @@
 <h3 align="center">Looking for an end of study internship in cloud / DevOps engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> </p>
 
-- 🔭 My latest project [DevOps project](https://github.com/5ARCTIC5-G3-DevOps)
+- 🔭 My latest project [DevOps project](https://github.com/orgs/5ARCTIC5-G3-DevOps/repositories)
 - 🌱 I am currently getting **AWS Certifications**
 
 - 💬 Ask me about **Jenkins,K8s,Ansible,Docker,OpenStack services,Terraform**
