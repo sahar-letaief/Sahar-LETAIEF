@@ -11,8 +11,10 @@
 - 📫 How to reach me **sahar.letaief@esprit.tn**
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahar-letaief&theme=onedark&title=Joined2020,Experience,Repositories,Commits,MultiLanguage,Stars,Followers)](https://github.com/sahar-letaief/github-profile-trophy)
+<p>
+  [![Sahar Letaief's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahar-letaief&theme=onedark)](https://github.com/sahar-letaief/github-readme-stats)
+</p>
 
-[![Sahar Letaief's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahar-letaief)](https://github.com/sahar-letaief/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
