@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sahar.letaief@esprit.tn**
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahar-letaief&title=Joined,Experience,Repositories,Commits,MultiLanguage,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahar-letaief&theme=onedark&title=Joined2020,Experience,Repositories,Commits,MultiLanguage,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Languages and Tools:</h3>
