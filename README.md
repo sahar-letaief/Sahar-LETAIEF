@@ -26,8 +26,11 @@
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="40" height="40"/>
   </a>
-   <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" alt="DigitalOcean" width="40" height="40"/>
+  </a>     
+  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40" height="40" />
   </a>          
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
