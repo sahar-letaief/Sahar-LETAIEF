@@ -19,7 +19,6 @@
 <p align="left">  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   </a>
-<p align="left">
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg"  alt="SonarQube" width="40" height="40" />
   </a>
