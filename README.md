@@ -44,5 +44,6 @@
 <p align="center" style="margin-left: 278 px" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahar-letaief&show_icons=true&locale=en&layout=compact&theme=onedark" alt="sahar-letaief" />
 </p>
+[![Sahar Letaief's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahar-letaief)](https://github.com/anuraghazra/github-readme-stats)
 
 
