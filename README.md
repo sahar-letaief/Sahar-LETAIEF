@@ -11,11 +11,17 @@
 
 - 📫 How to reach me **saharletaiief@gmail.com**
 
-- 👉 LinkedIn profile **Sahar Letaief** 
-  <a href="https://linkedin.com/in/sahar-letaief-ba6376197" rel="nofollow">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40"/>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahar-letaief&theme=gruvbox_light&title=Joined2020,Experience,Repositories,Commits,MultiLanguage,Stars,Followers)](https://github.com/sahar-letaief/github-profile-trophy)
+- 👉 LinkedIn profile [**Sahar Letaief**](https://linkedin.com/in/sahar-letaief-ba6376197)  
+<a href="https://linkedin.com/in/sahar-letaief-ba6376197" rel="nofollow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40" />
+</a>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/sahar-letaief/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahar-letaief&theme=gruvbox_light&title=Joined2020,Experience,Repositories,Commits,MultiLanguage,Stars,Followers" alt="GitHub Trophy" />
+  </a>
+</div>
+
 
 <!-- [![Sahar Letaief's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahar-letaief&theme=onedark)](https://github.com/sahar-letaief/github-readme-stats) -->
 
