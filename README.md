@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **saharletaiief@gmail.com**
 
-- 👉 LinkedIn profile <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer"><strong>Sahar Letaief</strong></a>  
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  LinkedIn profile <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer"><strong>Sahar Letaief</strong></a>  
 <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer">
  
 
