@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saharletaiief@gmail.com**
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahar-letaief&theme=onedark&title=Joined2020,Experience,Repositories,Commits,MultiLanguage,Stars,Followers)](https://github.com/sahar-letaief/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahar-letaief&theme=gruvbox_light&title=Joined2020,Experience,Repositories,Commits,MultiLanguage,Stars,Followers)](https://github.com/sahar-letaief/github-profile-trophy)
 
 <!-- [![Sahar Letaief's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahar-letaief&theme=onedark)](https://github.com/sahar-letaief/github-readme-stats) -->
 
