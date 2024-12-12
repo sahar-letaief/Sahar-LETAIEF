@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I am Sahar Letaief</h1>
 <h3 align="center">A Cloud computing and DevOps engineer</h3>
 <h3 align="center">Looking for an end of study internship in cloud / DevOps engineering</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> 
-<a href="https://linkedin.com/in/sahar-letaief-ba6376197" rel="nofollow"><img src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100 %;" class="hoverZoomLink"></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> 
+  <a href="https://linkedin.com/in/sahar-letaief-ba6376197" rel="nofollow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100 %;" class="hoverZoomLink"/>
+  
 
-- 🔭 My latest project [DevOps project](https://github.com/orgs/5ARCTIC5-G3-DevOps/repositories)
 - 🌱 I am currently getting **AWS Certifications**
 
 - 💬 Ask me about **Jenkins,K8s,Ansible,Docker,OpenStack,AWS,Terraform**
