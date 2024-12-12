@@ -12,7 +12,9 @@
 
 -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" />  <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer"> **LinkedIn profile** </a> 
 <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer">
- 
+
+<br>
+<br>
 
 
 <p align="center">
@@ -40,8 +42,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"  alt="Ansible" width="40" height="40" />
-
-
 
   
 <h3 align="left">Languages and Tools:</h3>
