@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Sahar Letaief</h1>
-<h3 align="center">A Cloud computing and DevOps engineer</h3>
+<h3 align="center">A passionate entry-level engineer in Cloud Computing and DevOps</h3>
+<h3 align="center">Open to new professional opportunities</h3>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> 
   
