@@ -69,7 +69,7 @@
 <br>
 <br>
 <p align="center" style="margin-left: 278 px" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahar-letaief&show_icons=true&locale=en&layout=compact&theme=onedark" alt="sahar-letaief" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahar-letaief&show_icons=true&locale=en&layout=compact&theme=gruvbox_light" alt="sahar-letaief" />
 </p>
 
 
