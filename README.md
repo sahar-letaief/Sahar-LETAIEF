@@ -2,16 +2,18 @@
 <h3 align="center">A Cloud computing and DevOps engineer</h3>
 <h3 align="center">Looking for an end of study internship in cloud / DevOps engineering</h3>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> 
-  <a href="https://linkedin.com/in/sahar-letaief-ba6376197" rel="nofollow">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40"/>
+  
   
 
-- 🌱 I am currently getting **AWS Certifications**
+- ⌛ I am currently getting **AWS Certifications**
 
 - 💬 Ask me about **Jenkins,K8s,Ansible,Docker,OpenStack,AWS,Terraform**
 
 - 📫 How to reach me **saharletaiief@gmail.com**
+
+- 👉 LinkedIn profile **Sahar Letaief** <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> 
+  <a href="https://linkedin.com/in/sahar-letaief-ba6376197" rel="nofollow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40"/>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahar-letaief&theme=gruvbox_light&title=Joined2020,Experience,Repositories,Commits,MultiLanguage,Stars,Followers)](https://github.com/sahar-letaief/github-profile-trophy)
 
