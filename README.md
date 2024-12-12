@@ -16,8 +16,11 @@
 <!-- [![Sahar Letaief's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahar-letaief&theme=onedark)](https://github.com/sahar-letaief/github-readme-stats) -->
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   </a>
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg"  alt="SonarQube" width="40" height="40" />
