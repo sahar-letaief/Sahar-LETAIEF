@@ -4,7 +4,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> 
   <a href="https://linkedin.com/in/sahar-letaief-ba6376197" rel="nofollow">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" style="max-width: 100 %;" class="hoverZoomLink"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
   
 
 - 🌱 I am currently getting **AWS Certifications**
