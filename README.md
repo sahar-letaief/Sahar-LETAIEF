@@ -2,7 +2,7 @@
 <h3 align="center">A Cloud computing and DevOps engineer</h3>
 <h3 align="center">Looking for an end of study internship in cloud / DevOps engineering</h3>
 <p align="left"> 
-  
+<img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> 
   
 
 - ⌛ I am currently getting **AWS Certifications**
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saharletaiief@gmail.com**
 
-- 👉 LinkedIn profile **Sahar Letaief** <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> 
+- 👉 LinkedIn profile **Sahar Letaief** 
   <a href="https://linkedin.com/in/sahar-letaief-ba6376197" rel="nofollow">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40"/>
   
