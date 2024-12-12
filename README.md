@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I am Sahar Letaief</h1>
 <h3 align="center">A Cloud computing and DevOps engineer</h3>
-<h3 align="center">Looking for an end of study internship in cloud / DevOps engineering</h3>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sahar-letaief&label=Profile%20views&color=0e75b6&style=flat" alt="sahar-letaief" /> 
   
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **saharletaiief@gmail.com**
 
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" />  <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer">**LinkedIn profile**</a> 
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" />  <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer"> **LinkedIn profile** </a> 
 <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer">
  
 
