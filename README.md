@@ -16,11 +16,11 @@
  
 
 
-<div style="justify-content: center; align-items: center;">
+<p align="center" style="margin-left: 278 px" >
   <a href="https://github.com/sahar-letaief/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sahar-letaief&theme=gruvbox_light&title=Joined2020,Experience,Repositories,Commits,MultiLanguage,Stars,Followers" alt="GitHub Trophy" />
   </a>
-</div>
+</p>
 
 
 <h3 align="left">Cloud providers:</h3>
