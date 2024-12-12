@@ -11,10 +11,11 @@
 
 - 📫 How to reach me **saharletaiief@gmail.com**
 
-- 👉 LinkedIn profile [**Sahar Letaief**](https://linkedin.com/in/sahar-letaief-ba6376197)  
-<a href="https://linkedin.com/in/sahar-letaief-ba6376197" rel="nofollow">
+- 👉 LinkedIn profile <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer"><strong>Sahar Letaief</strong></a>  
+<a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40" />
 </a>
+
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/sahar-letaief/github-profile-trophy">
