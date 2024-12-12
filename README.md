@@ -16,14 +16,12 @@
  
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="justify-content: center; align-items: center;">
   <a href="https://github.com/sahar-letaief/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sahar-letaief&theme=gruvbox_light&title=Joined2020,Experience,Repositories,Commits,MultiLanguage,Stars,Followers" alt="GitHub Trophy" />
   </a>
 </div>
 
-
-<!-- [![Sahar Letaief's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahar-letaief&theme=onedark)](https://github.com/sahar-letaief/github-readme-stats) -->
 
 <h3 align="left">Cloud providers:</h3>
 <p align="left">
@@ -71,7 +69,7 @@
   
 <h3 align="left">Databases:</h3>
 <p align="left">  
-   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
