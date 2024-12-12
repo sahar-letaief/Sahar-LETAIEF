@@ -20,6 +20,8 @@
 <p align="left">  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original-wordmark.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   </a>
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
@@ -30,12 +32,6 @@
   </a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="40" height="40"/>
-  </a>
-   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" alt="DigitalOcean" width="40" height="40"/>
-  </a>     
-  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40" height="40" />
   </a>          
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
