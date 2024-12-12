@@ -11,12 +11,12 @@
 
 - 📫 How to reach me **saharletaiief@gmail.com**
 
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" /> LinkedIn profile <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer"></a> 
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" />  <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer">**LinkedIn profile**</a> 
 <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer">
  
 
 
-<p align="center" style="margin-left: 250 px" >
+<p align="center" style="margin-left: 100 px" >
   <a href="https://github.com/sahar-letaief/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sahar-letaief&theme=gruvbox_light&title=Joined2020,Experience,Repositories,Commits,MultiLanguage,Stars,Followers" alt="GitHub Trophy" />
   </a>
