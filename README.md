@@ -13,8 +13,7 @@
 
 - 👉 LinkedIn profile <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer"><strong>Sahar Letaief</strong></a>  
 <a href="https://linkedin.com/in/sahar-letaief-ba6376197" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40" />
-</a>
+ 
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
